@@ -560,6 +560,9 @@
 .fa-facebook-square:before {
   content: "\f082";
 }
+.fa-whatsapp-square:before {
+  content: "\f40c";
+}
 .fa-camera-retro:before {
   content: "\f083";
 }
